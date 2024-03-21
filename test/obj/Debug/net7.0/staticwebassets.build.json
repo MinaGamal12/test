@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "R+hrj29mWYY3dTpfWvLmVjshlE1hOI85VWACDwNhEdE=",
+  "Source": "test",
+  "BasePath": "_content/test",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "test\\wwwroot",
+      "Source": "test",
+      "ContentRoot": "D:\\study\\.net\\MyProjects\\test\\wwwroot\\",
+      "BasePath": "_content/test",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\study\\.net\\MyProjects\\test\\wwwroot\\default.html",
+      "SourceId": "test",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\study\\.net\\MyProjects\\test\\wwwroot\\",
+      "BasePath": "_content/test",
+      "RelativePath": "default.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\default.html"
+    }
+  ]
+}
